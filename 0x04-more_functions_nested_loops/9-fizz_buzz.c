@@ -1,25 +1,3 @@
-Task 9.txt
-ማን መዳረሻ እንዳለው
-A
-የስርዓት ባህሪያት
-ዓይነት
-ጽሁፍ
-መጠን
-542 ባይት
-ጥቅም ላይ የዋለው ማከማቻ
-542 ባይት
-አካባቢ
-More functions, more nested loops
-ባለቤት
-Antony Bahati
-የተቀየረው
-15 ሴፕቴ 2022 በAntony Bahati
-የተከፈተው
-1:36 ጥዋት በእኔ
-የተፈጠረው
-1:51 ከሰዓት
-መግለጫ የለም
-ተመልካቾች ማውረድ ይችላሉ
 #include <stdio.h>
 
 /**
@@ -63,3 +41,4 @@ int main(void)
 	printf("\n");
 
 	return (0);
+}	
