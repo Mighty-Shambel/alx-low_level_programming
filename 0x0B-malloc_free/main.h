@@ -1,6 +1,7 @@
 #ifndef MAIN_H
 #define MAIN_H
-
+#include <stdio.h>
+#include <stdlib.h>
 /**
  * This header file contains all the prototypes required for the
  * 0x0B-malloc_free project.
