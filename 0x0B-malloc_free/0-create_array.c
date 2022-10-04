@@ -7,7 +7,7 @@
  *    
  * @size: size of the array to be created
  * @c: The character to be filled in the array
- *    
+ *       
  * Return: returns NULL if the size is 0 or if it fails
  * to create the memory, otherwise it returns a pointer
  * to the array.
