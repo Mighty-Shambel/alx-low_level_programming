@@ -20,5 +20,5 @@ void *malloc_checked(unsigned int b)
 	if (new_mem == NULL)
 		exit(98);
 
-	return (new_mem);
+        return (new_mem);
 }
